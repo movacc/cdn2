@@ -669,7 +669,7 @@ i.subc-email{ width: 20px; height: 14px; background-image: url(../images/subc-em
 .content-kuss iframe{ max-width: 100%;}
 .fav-movie-remove{ display: none;}
 .modal-subc h4{color: #0397D6 !important;}
-.mv-ft-logo{width: 240px; margin: 15px 0 15px; background-image: url("../images/gomovies-logo-dark.png"); background-position: 50% 25%; background-size: cover; display: inline-block;height: 49px;width: 187px;}
+.mv-ft-logo{width: 240px; margin: 15px 0 15px; background-image: url("../images/logo.gif"); background-position: 50% 25%; background-size: cover; display: inline-block;height: 49px;width: 187px;}
 .home-main{text-align: center; max-width: 800px; margin: 180px auto;}
 .home-main .hm-logo{ margin-bottom: 30px;}
 .home-main .hm-logo a{display: inline-block; background-image: url(../images/gomovies-logo-light.png); background-size: cover; background-position: 50% 25%; width: 280px; height: 73.5px;}
